@@ -1,0 +1,9 @@
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\bin\Debug\TemplateTest.dll.config
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\bin\Debug\TemplateTest.dll
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\bin\Debug\TemplateTest.pdb
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\bin\Debug\Microsoft.Data.Tools.Components.dll
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTesting.dll
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\bin\Debug\Microsoft.Data.Tools.Schema.Sql.UnitTestingAdapter.dll
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\obj\Debug\TemplateTest.csprojResolveAssemblyReference.cache
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\obj\Debug\TemplateTest.dll
+C:\Workspaces\Domains\Sharing\Implementation\Main\Trunk\Databases\TemplateTest\obj\Debug\TemplateTest.pdb
